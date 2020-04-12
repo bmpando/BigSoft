@@ -1,0 +1,1 @@
+gcloud auth activate-service-account flash-data-prod-file-landing@flash-data-prod-dw.iam.gserviceaccount.com --key-file=flash-data-prod-dw-5a5cca59abbe.json
